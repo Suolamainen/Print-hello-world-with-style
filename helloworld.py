@@ -14,6 +14,7 @@ while 1243250453463462905308236980925476 > a:
     time.sleep(1)
     #next line checks if a is 0 and if it is it chnages the value of the a to 1243250453463462905308236980925477
     if a == 0:
+        #next line adds 1243250453463462905308236980925477 to the valuable a
         a += 1243250453463462905308236980925477
 #next line prints hello world. It triggers after a is more than 1243250453463462905308236980925476.
 print("Helo wold!")
